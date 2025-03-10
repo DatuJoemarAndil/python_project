@@ -39,7 +39,7 @@ if __name__ == "__main__":
 
     # Replace with actual credentials (For security, avoid hardcoding credentials)
     fb_username = "09974588180"
-    fb_password = "Baisheiramie"
+    fb_password = "Password"
 
     test_facebook_login(driver, fb_username, fb_password)
 
