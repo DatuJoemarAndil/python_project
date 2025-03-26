@@ -75,4 +75,4 @@ test_login(driver, "wrongUser", "wrongPass")
 
 # Testcase 3: Valid Login (Replace with real credentials)
 print("\n🔹 Testcase 3: Valid Login")
-test_login(driver, "sjjinahon@gmail.com", "Dost@123")
+test_login(driver, "sjjinahon@gmail.com", "Dost@1")
