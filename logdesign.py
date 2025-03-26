@@ -23,7 +23,7 @@ try:
     else:
         print(f"Test Case 1 - Failed; Expected: '{expected_text}', Found: '{system_name_text}'")
 except NoSuchElementException:
-    print("Test Case 1 - Failed: System Name not found")
+    print("Test Case 1 - Failed: System Name was not found")
 
 # Close the browser
 driver.quit()
